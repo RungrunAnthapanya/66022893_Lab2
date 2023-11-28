@@ -1,32 +1,31 @@
-div{
+body{
     margin: auto;
-}
-.p1{
-    font-style: italic;
-    font-size: 60px;
-    background-color: plum;
+    margin-top: 50px;
     width: 1000px;
+}
+.p1{padding: 20px;
+    font-style: italic;
+    font-size: 75px;
+    background-color: plum;
     height: 100px;
     text-align: center;
     display: center;
-    vertical-align: middle;
 
 }
-.p2{
+.p2{padding:18px;
     font-style: initial;
     color: aliceblue;
     background-color: darkorchid;
-    font-size: 28px;
-    width: 1000px;
+    font-size: 35px;
+    height:50px ;
     text-align: center;
-    vertical-align: middle
+    display: center;
 }
-.p3{
+.p3{padding: 15px;
     font-style: initial;
     color: aliceblue;
     background-color: grey;
     font-size: 28px;
-    width: 1000px;
     height: 550px;
     text-align: auto;
     display: center;
@@ -36,7 +35,6 @@ div{
     color: black;
     background-color: darkviolet;
     font-size: 35px;
-    width: 1000px;
     height: 50px;
     text-align: center;
     display: center;
